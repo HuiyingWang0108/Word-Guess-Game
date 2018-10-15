@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Charmonman', cursive;
+    text-align: center;
+    margin: 40px auto;
+    font-weight: bold;
+    color: #0aa5e2;
+}
+.col-sm-6{
+    border: 2px dashed #000000;
+}
+.col-sm-6 .row{
+    padding: 10px;
+}
+.col-sm-6 .row #currentword{
+    /* text-align: center; */
+    margin-left: 33%;
+}
+
